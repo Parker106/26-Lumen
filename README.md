@@ -1,5 +1,12 @@
-LUMEN
-Lumen is a voice-first interface focused on structured, secure, and role-based interaction between patients, caregivers, and family members.
-Running the code
-Run npm i to install the dependencies.
-Run npm run dev to start the development server.
+# LUMEN
+
+> Voice-first interface for structured, secure, role-based communication between patients, caregivers, and families.
+
+---
+
+## Running the Code
+
+```bash
+npm install
+npm run dev
+```
