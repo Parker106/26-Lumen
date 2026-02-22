@@ -1,9 +1,7 @@
 
-  # Lumen Voice-AI Interface Design
-
-  This is a code bundle for Lumen Voice-AI Interface Design. The original project is available at https://www.figma.com/design/OviuN3iLgkcqhETqNtDfOK/Lumen-Voice-AI-Interface-Design.
-
   ## Running the code
+LUMEN
+Lumen is a voice-first interface focused on structured, secure, and role-based interaction between patients, caregivers, and family members.
 
   Run `npm i` to install the dependencies.
 
