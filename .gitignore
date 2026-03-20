@@ -1,3 +1,7 @@
 node_modules/
-.DS_Store
+.env
 dist/
+build/
+.DS_Store
+*.log
+.cursor/
