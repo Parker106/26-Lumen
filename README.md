@@ -89,7 +89,7 @@ Lumenvoiceaiinterfacedesign/
 - **ngrok** (free account) — to expose the backend webhook to ElevenLabs during development
 - Accounts and API keys for:
   - [OpenAI](https://platform.openai.com/) — embeddings + chat completions
-  - [ElevenLabs](https://elevenlabs.io/) — conversational AI agent
+  - [ElevenLabs](https://elevenlabs.io/) — conversational AI agent we  will also  provide with personal lumen voice agent we created for later stages. The working of our personal agent can be seen in the video presented.
   - [Supabase](https://supabase.com/) — PostgreSQL database with pgvector
 
 ---
